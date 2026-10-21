@@ -1,10 +1,9 @@
  # Proyect-HAD
  
 ## Proposito
-Evaluar la población joven desempleada del municipio de San Gabriel
-
+Desarrollar una herramienta digital de orientación y conexión laboral, que permita identificar las necesidades de los jóvenes de 18 a 28 años, así como facilitar su acceso a oportunidades de empleo, especialmente para quienes buscan un primer empleo, estudian o tienen responsabilidades de cuidado
 ## Alcance
-Prueba piloto cuatro meses a la población objetivo
+Proyecto para la empleabilidad de población de jóvenes del municipio de San Gabriel, entre los 18 a 28 años, que corresponde aproximadamente a 9.150 personas, cerca del 16% de la población total del municipio, los cuales se distribuyen en 3 zonas: Urbana consolidada, Sectores urbanos periféricos y centros poblados y sectores rurales, con una participación de población joven del 63 %, 22% y 15%
 
 ## Equipo y responsables 
 - Andres Ruiz: Coordinación del proyecto
