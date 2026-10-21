@@ -6,8 +6,12 @@ Desarrollar una herramienta digital de orientación y conexión laboral, que per
 Proyecto para la empleabilidad de población de jóvenes del municipio de San Gabriel, entre los 18 a 28 años, que corresponde aproximadamente a 9.150 personas, cerca del 16% de la población total del municipio, los cuales se distribuyen en 3 zonas: Urbana consolidada, Sectores urbanos periféricos y centros poblados y sectores rurales, con una participación de población joven del 63 %, 22% y 15%
 
 ## Equipo y responsables 
-- Andres Ruiz: Coordinación del proyecto
-- Kelly Uribe: Administración de archivo e información
+- Andres Ruiz: Coordinación general y seguimiento
+- Kelly Uribe: Administración documenta
+- Yennifer Ariza: Instrumento y convocatoria
+- Camilo Valero: Formulación técnica y articulación
+- Lorena Salamanca: Problema, diagnóstico y análisis
+- Todo el equipo: Ejecución y validación 
 
 ## Organización de documentos
 - `01_Formulacion/`: ficha del proyecto y documentos de alcance.
