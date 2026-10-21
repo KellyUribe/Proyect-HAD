@@ -3,7 +3,7 @@
 ## Proposito
 Desarrollar una herramienta digital de orientación y conexión laboral, que permita identificar las necesidades de los jóvenes de 18 a 28 años, así como facilitar su acceso a oportunidades de empleo, especialmente para quienes buscan un primer empleo, estudian o tienen responsabilidades de cuidado
 ## Alcance
-Proyecto para la empleabilidad de población de jóvenes del municipio de San Gabriel, entre los 18 a 28 años, que corresponde aproximadamente a 9.150 personas, cerca del 16% de la población total del municipio, los cuales se distribuyen en 3 zonas: Urbana consolidada, Sectores urbanos periféricos y centros poblados y sectores rurales, con una participación de población joven del 63 %, 22% y 15%
+Durante 12 meses, el Programa Integral para la Empleabilidad y la Inclusión Productiva atenderá a 200 jóvenes de 18 a 28 años de San Gabriel. Entre los meses 1 y 3 se elaborarán los planes operativo y de seguimiento, se convocará a los jóvenes y se aplicará un diagnóstico que asignará a cada participante una ruta según su perfil. Entre los meses 3 y 8 se desarrollarán módulos de competencias laborales y talleres de habilidades socioemocionales, con certificación. Entre los meses 5 y 10 se brindará orientación ocupacional individual y grupal, y se articularán alianzas con empresas e instituciones de formación para realizar ruedas de empleo y remitir a los jóvenes a vacantes laborales, educativas o de emprendimiento. Entre los meses 8 y 12 se hará seguimiento a la inserción laboral y educativa mediante una base de datos, y se entregarán los informes de resultados y el informe final
 
 ## Equipo y responsables 
 - Andres Ruiz: Coordinación general y seguimiento
